@@ -15,12 +15,22 @@ namespace MusicLabelCompany.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult OurEvents()//About
         {
             ViewData["Message"] = "Your application description page.";
+            List<Events> MusicEvent = new List<Events>()
+            {
+
+              
+
+            };
+            
+
+            
 
             return View();
         }
+      
 
         public IActionResult Contact()
         {
