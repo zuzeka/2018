@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicLabelCompany", "MusicLabelCompany\MusicLabelCompany.csproj", "{5E31EE02-EC8F-44CE-80CE-D1E269779E53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2018", "MusicLabelCompany\2018.csproj", "{5E31EE02-EC8F-44CE-80CE-D1E269779E53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
